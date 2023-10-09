@@ -6,6 +6,7 @@ Esse código é eficiente e usa a biblioteca NumPy para manipular os dados de ma
 Certifique-se de que o arquivo CSV 'dados_vendas.csv' exista no mesmo diretório em que você está executando o código ou ajuste o caminho do arquivo conforme necessário.
 
 Para executar o projeto : 
+
 1-baixe o projeto 
 
 2-vá ate o terminal e dê o comando --> pip install numpy em seguida execute.
