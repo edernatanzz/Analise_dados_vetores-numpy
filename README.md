@@ -8,4 +8,4 @@ Certifique-se de que o arquivo CSV 'dados_vendas.csv' exista no mesmo diretório
 Para executar o projeto : 
 1-baixe o projeto 
 
-2-vá ate o terminar e dê o comando --> pip install numpy em seguida execute.
+2-vá ate o terminal e dê o comando --> pip install numpy em seguida execute.
